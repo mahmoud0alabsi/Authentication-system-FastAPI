@@ -135,6 +135,8 @@ requirements.txt
 - `POST /logout`: Log out the user.
 - `POST /auth/refresh`: Refresh the access token using a refresh token manually.
 
+  ![Postman_refresh_token_response Screenshot](https://github.com/mahmoud0alabsi/Authentication-system-FastAPI/blob/main/screenshots/postman_refresh_token_response.png)
+
 ### Admin Endpoints
 
 - `GET /admin`: Retrieve all users in the database.
@@ -196,7 +198,7 @@ requirements.txt
     - Add the access token to the request headers in Postman as a Bearer token for protected routes.
     - Refresh the access token as needed and update the Postman headers accordingly.
 
-   ![Postman Screenshot](screenshot_placeholder.png)
+   ![Postman Screenshot](https://github.com/mahmoud0alabsi/Authentication-system-FastAPI/blob/main/screenshots/postman_access_token.png)
 
 ## :notebook: More Explanations
 
