@@ -5,7 +5,6 @@ class Settings(BaseSettings):
     DB_PASSWORD: str
     DB_HOST: str
     DB_NAME: str
-    SECRET_KEY: str
     DB_PORT: int
     JWT_SECRET: str
     ALGORITHM: str = "HS256"

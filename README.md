@@ -12,7 +12,7 @@
 - [Brief Description and Technologies Used](#beginner-description)
 - [Project Structure](#file_folder-project-structure)
 - [Project Components](#package-project-components)
-- [Serving the Project Files](#zap-how-to-navigate-the-project)
+- [How to Navigate the Project](#zap-how-to-navigate-the-project)
 - [Endpoints](#rocket-endpoints)
    - [Authentication](#authentication-endpoints)
    - [Admin](#admin-endpoints)
