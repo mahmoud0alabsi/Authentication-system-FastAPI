@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+mysql-connector-python
+passlib[bcrypt]
+PyJWT
